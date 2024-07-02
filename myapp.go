@@ -1,2 +1,2 @@
-v1.1 dev
+v1.1 new feature dev
 
